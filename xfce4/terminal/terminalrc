@@ -35,3 +35,4 @@ DropdownHeight=45
 DropdownPositionVertical=100
 DropdownMoveToActive=FALSE
 DropdownAlwaysShowTabs=FALSE
+DropdownStatusIcon=FALSE

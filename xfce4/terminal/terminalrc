@@ -28,4 +28,10 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ColorBackground=#38383c3c4a4a
-
+DropdownKeepOpenDefault=TRUE
+DropdownWidth=100
+DropdownOpacity=75
+DropdownHeight=45
+DropdownPositionVertical=100
+DropdownMoveToActive=FALSE
+DropdownAlwaysShowTabs=FALSE
